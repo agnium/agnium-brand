@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="55mm"
+   viewBox="0 0 340.15748 207.87402"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="agnium_card_a_name.svg"
+   inkscape:export-filename="/home/mhaidarh/all/repo/agnium/agnium-brand/assets/png/agnium_card_a.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Agnium Brand Asset</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="2.2006513"
+     inkscape:cx="173.11474"
+     inkscape:cy="101.43994"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     showguides="true"
+     inkscape:snap-page="true"
+     units="mm"
+     inkscape:document-units="mm" />
+  <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">Agnium Brand Asset</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <filter
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-1">
+      <feOffset
+         dx="2"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11" />
+      <feGaussianBlur
+         stdDeviation="2"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur13" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix15" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode19" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode21" />
+      </feMerge>
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4395">
+      <path
+         id="path4397"
+         d="m 1868.9474,-181.81589 c -23.2329,-0.20397 -40.1633,13.9573 -52.2304,43.37512 -69.8128,149.075673 -270.5683,304.83732 -457.472,430.93946 -186.9037,126.10253 -434.55653,252.92203 -205.4773,487.45331 160.7564,140.23685 397.2024,188.7343 595.6261,201.8661 -52.0775,-19.19162 -98.1956,-41.78992 -128.4907,-67.92075 -120.5745,-104.00068 -68.9287,-208.53361 -68.9287,-208.53361 0,0 148.788,176.52807 374.1839,229.79033 77.0192,18.20026 138.6946,29.67913 191.0866,36.27697 0,0 744.2022,-126.45004 515.6055,-492.62066 -23.5062,-29.56252 -52.1552,-58.4454 -86.6312,-82.43416 -58.7226,-40.85936 -108.7834,-63.8479 -146.2191,-76.78073 -8.8618,28.35794 -21.3371,56.88368 -38.876,82.34141 -68.5494,99.49949 -196.9513,105.85257 -196.9513,105.85257 0,0 109.6009,-7.0943 86.9792,-194.13027 C 2235.6441,185.44 2131.3618,16.97913 2044.3976,-65.183325 1963.9142,-141.22284 1907.6691,-181.47414 1868.9474,-181.81589 Z"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38991857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4395-5">
+      <path
+         id="path4397-0"
+         d="m 1868.9474,-181.81589 c -23.2329,-0.20397 -40.1633,13.9573 -52.2304,43.37512 -69.8128,149.075673 -270.5683,304.83732 -457.472,430.93946 -186.9037,126.10253 -434.55653,252.92203 -205.4773,487.45331 160.7564,140.23685 397.2024,188.7343 595.6261,201.8661 -52.0775,-19.19162 -98.1956,-41.78992 -128.4907,-67.92075 -120.5745,-104.00068 -68.9287,-208.53361 -68.9287,-208.53361 0,0 148.788,176.52807 374.1839,229.79033 77.0192,18.20026 138.6946,29.67913 191.0866,36.27697 0,0 744.2022,-126.45004 515.6055,-492.62066 -23.5062,-29.56252 -52.1552,-58.4454 -86.6312,-82.43416 -58.7226,-40.85936 -108.7834,-63.8479 -146.2191,-76.78073 -8.8618,28.35794 -21.3371,56.88368 -38.876,82.34141 -68.5494,99.49949 -196.9513,105.85257 -196.9513,105.85257 0,0 109.6009,-7.0943 86.9792,-194.13027 C 2235.6441,185.44 2131.3618,16.97913 2044.3976,-65.183325 1963.9142,-141.22284 1907.6691,-181.47414 1868.9474,-181.81589 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     style="display:inline"
+     transform="translate(0,-592.12598)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="base"
+     style="display:inline"
+     transform="translate(0,-592.12598)">
+    <g
+       style="display:inline"
+       id="g4249-1-3"
+       transform="translate(-42.608814,1702.5518)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.49532127px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11482183px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="170.16208"
+       y="1005.7581"
+       id="text4152-4-7-3-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4154-8-3-3-5-3"
+         x="170.16208"
+         y="1005.7581"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11482183px;stroke-opacity:1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.49532127px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11482183px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="170.16208"
+       y="990.75812"
+       id="text4152-4-7-3-3-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4154-8-3-3-5-3-8"
+         x="170.16208"
+         y="990.75812"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11482183px;stroke-opacity:1" /></text>
+    <g
+       style="display:inline"
+       id="g4171-1"
+       transform="matrix(0.14173229,0,0,0.25984253,-1.8655834e-5,592.12598)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="0"
+         x="0"
+         height="800"
+         width="2400"
+         id="rect4265-8"
+         style="display:inline;fill:#c83333;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       style="display:inline;opacity:0.5;fill:#950404;fill-opacity:1"
+       id="g4171-1-7"
+       transform="matrix(0.14173229,0,0,0.25984253,-1.8655834e-5,592.12598)"
+       clip-path="url(#clipPath4395-5)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="0"
+         x="0"
+         height="800"
+         width="2400"
+         id="rect4265-8-0"
+         style="display:inline;fill:#950404;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.49532318px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="170.16206"
+       y="733.14417"
+       id="text4152-4-7-3-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4154-8-3-3-5"
+         x="170.16206"
+         y="733.14417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333588px;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">Title Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.58062172px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="169.39905"
+       y="706.83685"
+       id="text4152-4-7-5-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4154-8-3-0-5"
+         x="169.39905"
+         y="706.83685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text Bold'"
+   id="tspan4187">First</tspan> Last</tspan></text>
+    <path
+       id="rect4149-6-5"
+       d="m 170.07514,602.12612 c -0.82197,-0.0133 -1.42096,0.90532 -1.84789,2.81343 -2.46995,9.66944 -9.5726,19.77253 -16.18518,27.95187 -6.61258,8.17933 -15.37443,16.40516 -7.26971,31.61747 5.6875,9.09614 14.05288,12.24181 21.07302,13.09358 -1.84248,-1.24483 -3.47412,-2.71062 -4.54595,-4.40552 -4.26587,-6.74576 -2.43866,-13.52604 -2.43866,-13.52604 0,0 5.26405,11.45006 13.23847,14.9048 2.72491,1.18051 4.90697,1.92507 6.76057,2.35303 0,0 26.32957,-8.20189 18.24192,-31.95266 -0.83165,-1.9175 -1.84524,-3.79093 -3.06499,-5.34691 -2.07757,-2.65023 -3.84871,-4.14132 -5.17317,-4.98019 -0.31352,1.83937 -0.7549,3.68962 -1.37542,5.34087 -2.42525,6.4538 -6.96806,6.86588 -6.96806,6.86588 0,0 3.87764,-0.46015 3.07729,-12.5918 -0.54866,-8.31664 -4.23813,-19.24344 -7.31488,-24.57271 -2.84747,-4.93212 -4.8374,-7.54293 -6.20736,-7.5651 z"
+       style="display:inline;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       style="display:inline"
+       id="g4269"
+       transform="translate(8.8879982,-222.20344)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4152-4-7-3-3-1-7-9"
+         y="981.91974"
+         x="161.63866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.49532127px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="981.91974"
+           x="161.63866"
+           id="tspan4154-8-3-3-5-3-8-6"
+           sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+   id="tspan4202"></tspan>  (+62) 888-8888-8888</tspan><tspan
+           id="tspan4247"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="996.04333"
+           x="161.63866"
+           sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-anchor:middle"
+   id="tspan4209"></tspan>  name@agnium.co.id</tspan><tspan
+           id="tspan4249"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'SF UI Text';-inkscape-font-specification:'SF UI Text';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="1010.1669"
+           x="161.63866"
+           sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-anchor:middle"
+   id="tspan4213"></tspan>  linkedin.com/in/name</tspan></text>
+    </g>
+  </g>
+</svg>

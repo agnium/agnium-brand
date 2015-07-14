@@ -1,0 +1,13 @@
+GIMP Palette
+Name: Agnium
+Columns: 3
+#
+
+255 255 255     White
+0   0   0       Black
+
+238  52  52     Red          #ee3a3a
+200  51  51     Dark Red     #c83333
+149   4   4     Darkest Red  #950404
+0   199  50     Line Red
+
