@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="agnium_base_red.svg"
+   inkscape:export-filename="/home/mhaidarh/all/repo/agnium/agnium-brand/assets/png/agnium_base_red_white.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Agnium Brand Asset</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.35379003"
+     inkscape:cx="300.30605"
+     inkscape:cy="18.445092"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox="true" />
+  <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">Agnium Brand Asset</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <filter
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-1">
+      <feOffset
+         dx="2"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11" />
+      <feGaussianBlur
+         stdDeviation="2"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur13" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix15" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode19" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode21" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.58306265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4190"
+       width="800"
+       height="800"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="base"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g4222"
+       transform="matrix(1.0011603,0,0,1.0011603,-519.68916,-40.073381)">
+      <path
+         sodipodi:nodetypes="scsccscscsscscsss"
+         inkscape:connector-curvature="0"
+         style="display:inline;opacity:1;fill:#f44336;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 918.39634,102.92311 c -7.1796,-0.11618 -12.4115,7.90759 -16.1406,24.57421 -21.574,84.45873 -83.61282,172.70527 -141.37108,244.14843 -57.75826,71.44316 -134.28965,143.29266 -63.49805,276.16602 49.67799,79.45116 122.74619,106.9274 184.06443,114.36719 -16.0933,-10.87307 -30.34503,-23.67613 -39.70701,-38.48047 -37.2608,-58.92146 -21.30078,-118.14453 -21.30078,-118.14453 0,0 45.97939,100.01171 115.63279,130.1875 23.801,10.31126 42.8604,16.81474 59.0508,20.55273 0,0 231.26826,-72.08394 159.33586,-279.09375 -5.9922,-17.24454 -16.1173,-33.11226 -26.7714,-46.70312 -18.1468,-23.14869 -33.6169,-36.17278 -45.1856,-43.5 -2.7385,16.06621 -6.5937,32.22743 -12.0137,46.65039 -21.1836,56.37136 -60.8632,59.9707 -60.8632,59.9707 0,0 33.8696,-4.01919 26.8789,-109.98438 -4.7924,-72.64242 -37.01836,-168.08375 -63.89256,-214.6328 -24.8715,-43.08011 -42.2527,-65.8845 -54.2188,-66.07812 z"
+         id="rect4149-1" />
+      <path
+         id="rect4149-0-9"
+         d="m 926.21924,105.73501 0,0.002 c 20.8415,34.21024 52.2131,96.78314 60.9434,214.6543 19.12566,258.2241 -76.3887,353.24122 -104.1328,376.68945 15.4387,15.92103 33.2894,30.10068 53.0468,38.66016 23.801,10.31126 42.8604,16.81474 59.0508,20.55273 0,0 231.26826,-72.08394 159.33586,-279.09375 -5.9921,-17.24454 -16.1173,-33.11226 -26.7714,-46.70312 -18.1468,-23.14869 -33.6169,-36.17278 -45.1856,-43.5 -2.7385,16.06621 -6.5937,32.22743 -12.0137,46.65039 -21.1836,56.37136 -60.8632,59.9707 -60.8632,59.9707 0,0 33.8696,-4.01918 26.8789,-109.98437 -4.7924,-72.64242 -37.01836,-168.08376 -63.89256,-214.63281 -19.9103,-34.48676 -35.0179,-55.96386 -46.3926,-63.26563 -10e-4,3e-4 0,-2.9e-4 0,0 z"
+         style="display:inline;opacity:1;fill:#d32f2f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect4149-0-5-5"
+         d="m 1082.5063,386.99673 0,0.002 c -2e-4,10e-4 2e-4,0.003 0,0.004 0,0.003 0,0.006 0,0.01 3e-4,5.1e-4 -2e-4,0.001 0,0.002 21.2976,45.32929 54.5652,131.62793 29.6738,207.82031 -29.1889,89.34738 -78.8992,135.4671 -119.20106,160.92773 0.7066,0.17096 1.4389,0.36669 2.1347,0.52735 6e-4,1.4e-4 10e-4,-1.4e-4 0,0 l 0,-0.002 0.012,-0.004 c 0.01,4.1e-4 0.017,0.002 0.025,0.002 0.2822,-0.088 231.19896,-72.20257 159.31056,-279.08594 -5.9922,-17.24454 -16.1173,-33.11226 -26.7715,-46.70312 -18.1468,-23.14869 -33.6169,-36.17278 -45.1855,-43.5 z"
+         style="display:inline;opacity:1;fill:#b71c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
