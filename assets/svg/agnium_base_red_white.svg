@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r"
-   sodipodi:docname="agnium_base_red.svg"
+   sodipodi:docname="agnium_base_red_white.svg"
    inkscape:export-filename="/home/mhaidarh/all/repo/agnium/agnium-brand/assets/png/agnium_base_red_white.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -42,9 +42,9 @@
      inkscape:window-height="744"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="0.35379003"
-     inkscape:cx="300.30605"
-     inkscape:cy="18.445092"
+     inkscape:zoom="0.23796992"
+     inkscape:cx="184.48161"
+     inkscape:cy="62.590256"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -100,8 +100,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.58306265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4190"
@@ -118,7 +118,7 @@
     <g
        style="display:inline"
        id="g4222"
-       transform="matrix(1.0011603,0,0,1.0011603,-519.68916,-40.073381)">
+       transform="matrix(1.0011603,0,0,1.0011603,-519.68916,-33.052302)">
       <path
          sodipodi:nodetypes="scsccscscsscscsss"
          inkscape:connector-curvature="0"
