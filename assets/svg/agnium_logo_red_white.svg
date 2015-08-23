@@ -42,9 +42,9 @@
      inkscape:window-height="744"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="0.19826138"
-     inkscape:cx="2053.9004"
-     inkscape:cy="-540.87845"
+     inkscape:zoom="0.11845555"
+     inkscape:cx="2469.532"
+     inkscape:cy="-753.31476"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -108,6 +108,20 @@
       </feMerge>
     </filter>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4265"
+       width="2800"
+       height="800"
+       x="0"
+       y="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
